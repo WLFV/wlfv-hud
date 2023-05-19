@@ -5,6 +5,7 @@ Things i did and going to do
 * I created a side menu for all options
 * Im going to ad qb-commandbindings in this script
 * More options coming soon!
+* Added a dutch .html
 
 # Previews
 ### General Options
