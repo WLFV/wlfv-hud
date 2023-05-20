@@ -14,7 +14,7 @@ Things i need to do
 
 # Previews
 ### Video
-![video](https://streamable.com/1uvszp)
+https://streamable.com/1uvszp
 ### General Options
 ![general](https://i.imgur.com/NS94luq.png)
 ### Notifications Options
@@ -25,5 +25,5 @@ Things i need to do
 ![vehicle](https://i.imgur.com/Vyxzmvz.png)
 ### Compass Options
 ![compass](https://i.imgur.com/wyAzmFV.png)
-### qb-commandbindings (COMING SOON)
-![commandbinding](https://i.imgur.com/jspz03P.png)
+### qb-commandbindings (W.I.P)
+![commandbinding](https://i.imgur.com/oQsHd2y.png)
