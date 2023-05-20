@@ -4,10 +4,12 @@ Things i did and going to do
 * I Renewed the CSS for the option menu
 * I created a side menu for all options
 * Im going to ad qb-commandbindings in this script
+* * Added a dutch .html
 * More options coming soon!
-* Added a dutch .html
 
 # Previews
+### Video
+![video](https://streamable.com/1uvszp)
 ### General Options
 ![general](https://i.imgur.com/NS94luq.png)
 ### Notifications Options
