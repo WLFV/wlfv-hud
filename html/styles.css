@@ -7,7 +7,7 @@ div#openmenu { display: none; position: absolute; width: 50%; top: 45%; left: 50
 
 /* Menu tab & panel styles */
 .text-tabcolor { color: rgb(255, 255, 255)!important; }
-.bg-active-tab { background: rgba(0, 0, 0, 0.850)!important; }
+.bg-active-tab { background: rgba(0, 0, 0, 0.850)!important; box-shadow: 0.0rem 0.08rem 0.05rem 0.05rem #00f5d0; }
 .bg-panel { background: rgba(0, 0, 0, 0.900)!important; }
 .q-tab-panels { border-top-right-radius: 3px!important; border-bottom-right-radius: 3px!important; } /* change all 12px for a different border radius (rounds edges of the menu) */
 .q-splitter__panel.q-splitter__before { border-top-left-radius: 3px!important; border-bottom-left-radius: 3px!important; } /* change all 12px for a different border radius (rounds edges of the menu) */
@@ -52,27 +52,56 @@ div#q-loading-bar { display: none!important; } /* makes sure there's no ajax loa
 .text-gauge { color: rgb(255, 255, 255)!important; }
 
 
-.keys-block-binding-keyprefix {
-  color: rgb(255, 255, 255);
-}
-
 .command {
   border: solid;
-  border-width: 1px;
+  padding: 6px;
+  border-width: 0px;
   border-radius: 0px;
-  background: rgba(0, 0, 0, 0);
+  background: rgba(0, 0, 0, 0.250);
   color: white;
   text-align: center;
 }
 
 .argument {
   border: solid;
-  border-width: 1px;
+  padding: 6px;
+  margin-left: 25px;
+  border-width: 0px;
   border-radius: 0px;
-  background: rgba(0, 0, 0, 0);
+  background: rgba(0, 0, 0, 0.250);
   color: white;
   text-align: center;
 }
+
+.keys-block-binding-keyprefix {
+  color: rgb(255, 255, 255);
+}
+
+.keys-block-binding-keyprefix {
+  color: rgb(255, 255, 255);
+  font-size: 1.4vh;
+  text-align: left;
+  letter-spacing: 0.1vh;
+  margin-bottom: 15px;
+  margin-top: 15px;
+}
+
+.save-bindings {
+  background-color: #00f5d0;
+  border: none;
+  color: black;
+  margin-top: 25px;
+  padding: 17px 45px 0px 45px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+.save-bindings:hover {
+  background-color: white;
+}
+
 
 #main-container {
   width: 100%;
