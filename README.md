@@ -4,7 +4,7 @@ Things i did and going to do
 * I Renewed the CSS for the option menu
 * I created a side menu for all options
 * Im going to ad qb-commandbindings in this script
-* * Added a dutch .html
+* Added a dutch .html
 * More options coming soon!
 
 # Previews
