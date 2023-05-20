@@ -1,11 +1,16 @@
 
 # My HTML & CSS edit of [qb-hud](https://github.com/qbcore-framework/qb-hud)
-Things i did and going to do
+Things i did
 * I Renewed the CSS for the option menu
 * I created a side menu for all options
-* Im going to ad qb-commandbindings in this script
 * Added a dutch .html
-* More options coming soon!
+* More coming soon!
+
+Things i need to do
+* Able to save keybinds in the menu
+* Server information Tab
+* More coming soon!
+
 
 # Previews
 ### Video
