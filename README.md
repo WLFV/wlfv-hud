@@ -11,8 +11,21 @@ Things i need to do
 * Server information Tab
 * More coming soon!
 
+# Previews V2 Style
+### General Options
+![general](https://i.imgur.com/OqWcX1R.png)
+### Notifications Options
+![notifications](https://i.imgur.com/hq3fWRZ.png)
+### Status Options
+![status](https://i.imgur.com/si381kp.png)
+### Vehicle Options
+![vehicle](https://i.imgur.com/MqWMeJD.png)
+### Compass Options
+![compass](https://i.imgur.com/gPDg6K4.png)
+### qb-commandbindings (W.I.P)
+![commandbinding](https://i.imgur.com/iATowKl.png)
 
-# Previews
+# Previews V1 Style
 ### Video
 https://streamable.com/1uvszp
 ### General Options
